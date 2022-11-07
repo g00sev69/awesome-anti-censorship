@@ -25,4 +25,4 @@
 ## Resources
 
 - [Holy Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - By far the most popular web proxy for school.
-- [Ultraviolet](https://github.com/Titanium-Network/Ultraviolet) - Another popular web proxy by Titanium Network.
+- [Ultraviolet](https://github.com/Titanium-Network/Ultraviolet) - Another web proxy by Titanium Network.
