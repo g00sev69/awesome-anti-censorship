@@ -26,4 +26,5 @@
 
 - [Holy Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - By far the most popular web proxy for school.
 - [Ultraviolet](https://github.com/Titanium-Network/Ultraviolet) - Another web proxy by Titanium Network.
-- [Ingot](https://github.com/FogNetwork/Ingot) - An extension manager that can be used to disable GoGaurdian, Lightspeed Filter, Relay, and any other installed extension
+- [Ingot](https://github.com/FogNetwork/Ingot) - An extension manager that can be used to disable GoGaurdian, Lightspeed Filter, Relay, and any other installed extension.
+- [BigfootGS](https://github.com/BigfootsGS/BigfootsGS.github.io) - Bigfoot's Game Shack is a collection of unblocked games.
