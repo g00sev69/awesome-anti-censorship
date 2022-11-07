@@ -21,3 +21,8 @@
 - [Fog Network](https://github.com/FogNetwork) - Another organization that creates web proxies and is geared towards ending internet censorship.
 - [TTheHolyOne](https://github.com/TTheHolyOne) - Another guy who creates unblocker programs.
 - [unc3ns0red](https://github.com/unc3ns0red) - A student who loves to ubblock things.
+
+## Resources
+
+- [Holy Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - By far the most popular web proxy for school.
+- [Ultraviolet](https://github.com/Titanium-Network/Ultraviolet) - Another popular web proxy by Titanium Network.
