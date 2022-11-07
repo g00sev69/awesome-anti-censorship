@@ -11,8 +11,6 @@
   <p>This is an Awesome list that shows many different ways to evade internet censorship.</p>
 </div>
 <br>
-<br>
-<br>
 
 ## Organizations and Users
 
@@ -20,7 +18,8 @@
 - [QuiteAFancyEmerald](https://github.com/QuiteAFancyEmerald) - The man behind Holy Unblocker (also my idol)
 - [Fog Network](https://github.com/FogNetwork) - Another organization that creates web proxies and is geared towards ending internet censorship.
 - [TTheHolyOne](https://github.com/TTheHolyOne) - Another guy who creates unblocker programs.
-- [unc3ns0red](https://github.com/unc3ns0red) - A student who loves to ubblock things.
+- [unc3ns0red](https://github.com/unc3ns0red) - A student who loves to unblock things.
+- [nfriedly](https://github.com/nfriedly) - Wow, an actual adult on this list...
 
 ## Resources
 
