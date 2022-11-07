@@ -9,6 +9,7 @@
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
   <p>This is an Awesome list that shows many different ways to evade internet censorship.</p>
+  <p><sub>If you want to add anything, edit this, add what you want, and then submit a pull request.</sub></p>
 </div>
 <br>
 
