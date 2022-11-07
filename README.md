@@ -26,9 +26,9 @@
 - [Holy Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - By far the most popular web proxy for school.
 - [Ultraviolet](https://github.com/Titanium-Network/Ultraviolet) - Another web proxy by Titanium Network.
 - [Ingot](https://github.com/FogNetwork/Ingot) - An extension manager that can be used to disable GoGaurdian, Lightspeed Filter, Relay, and any other installed extension.
-- [BigfootGS](https://github.com/BigfootsGS/BigfootsGS.github.io) - Bigfoot's Game Shack is a collection of unblocked games.
 
 ## Other
 
 - [chrome100](https://github.com/e9x/chrome100) - A collection of ChromeOS recovery images (in case you want to mess with the hardware)
 - [Gfiles](https://github.com/BinBashBanana/gfiles) - Collection of HTML5 and flash games, plus webretro
+- [BigfootGS](https://github.com/BigfootsGS/BigfootsGS.github.io) - Bigfoot's Game Shack is a collection of unblocked games.
