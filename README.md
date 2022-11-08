@@ -11,6 +11,7 @@
   <p>This is an Awesome list that shows many different ways to evade internet censorship.</p>
   <p><sub>If you want to add or change anything, fork this, create a new branch, edit, and then push.</p>
 <br>
+</div>
 
 ## Organizations and Users
 
